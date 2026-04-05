@@ -1,4 +1,4 @@
-package likelion;
+package likeLion;
 
 public class VendingMachine {
 

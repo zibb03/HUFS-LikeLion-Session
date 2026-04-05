@@ -1,8 +1,8 @@
-package PBL_TIL.week1;
+package likeLion_PBL_TIL.week1;
 
 import java.util.Scanner;
 
-public class week1 {
+public class Week1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int cnt = 0;
